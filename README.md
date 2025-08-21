@@ -1,1 +1,1 @@
-# Sistema-de-Gerenciamento-de-Eventos-Unisociesc-SGE-Unisociesc-
+# Sistema de Gerenciamento de Eventos Unisociesc  SGE - Unisociesc
